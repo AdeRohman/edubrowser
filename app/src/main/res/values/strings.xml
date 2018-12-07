@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EduBrowser V 1.0</string>
+    <string name="btn_lanjutkan">Lanjutkan</string>
+    <string name="btn_qrcode">Scan QR</string>
+    <string name="hint_name">Masukkan IP address/Domain</string>
+    <string name="err_msg_name">Form IP address/Domain tidak boleh kosong</string>
+    <string name="tentang">Tentang</string>
+    <string name="keluar">Keluar</string>
+    <string name="inputaddressqr">Hasil QR</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="url_disini">Url Disini</string>
+    <string name="masuk">Masuk</string>
+    <string name="aamalat_url_link">Aamalat URL / Link</string>
+</resources>
